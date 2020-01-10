@@ -1,6 +1,6 @@
 Name:           malaga-suomi-voikko
 Version:        1.12
-Release:        3%{?dist}
+Release:        5%{?dist}
 Summary:        A description of Finnish morphology written in Malaga (Voikko edition)
 
 Group:          Applications/Text
@@ -45,6 +45,12 @@ make voikko-install DESTDIR=$RPM_BUILD_ROOT%{_libdir}/voikko
 
 
 %changelog
+* Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 1.12-5
+- Mass rebuild 2014-01-24
+
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.12-4
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.12-3
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
