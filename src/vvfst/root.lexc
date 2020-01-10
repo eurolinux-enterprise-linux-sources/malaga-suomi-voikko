@@ -1,0 +1,40 @@
+Multichar_Symbols
+
+! Sanaluokat
+[Ln]  ! nimisana
+[Lee] ! erisnimi - etunimi
+[Les] ! erisnimi - sukunimi
+[Lep] ! erisnimi - paikannimi
+[Lem] ! erisnimi - muu erisnimi
+[Ll]  ! laatusana
+[Lnl] ! nimi_laatusana
+[Lt]  ! teonsana
+
+! Vokaalisointu
+[Va]
+[Vä]
+[Vaä]
+
+! Merkkijonoparametrit
+[Xp]  ! perusmuoto
+[Xr]  ! rakenne
+[X]   ! parametrin päätemerkki
+
+! Sijamuodot
+[Sn]   ! nominatiivi
+[Sine] ! inessiivi
+[Sela] ! elatiivi
+[Sill] ! illatiivi
+
+! Luvut
+[Ny]  ! yksikkö
+[Nm]  ! monikko
+
+! Diakriitit
+@P.EI_YKS@ @D.EI_YKS@ ! Yksikkömuotoja ei sallita
+
+@R.YS_ALKANUT@ ! Yhdyssana on alkanut
+
+LEXICON Root
+Nimisana	;
+
